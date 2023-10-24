@@ -60,3 +60,5 @@ docs/_build/
 
 # nvim mergtool
 *.orig
+
+.gitignore
